@@ -14,6 +14,10 @@ The results are presented below:
 
 * As for the unpaid reviews, the metrics were, as follows: the total review count was 1685, the five-star review count was 631, and the percentage of 5-star reviews within the paid reviews equated to 37.44%.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99566803/173960805-bd089646-6c02-48bc-9e2c-b23506e9ad2f.png" />
+</p>
+
 ## Summary
 As stated above, it is not possible to provide a definitive answer as to the bias of paid vine reviews, as no paid reviews were found for the product category analyzed. That being said, one possible avenue that can be taken in order to investigate the potential vine bias is to recreate the current analysis with a different amazon item category. Additionally, if the results in a different category would be inconclusive, it might be a good idea to investigate the amount of helpful votes received on paid versus unpaid reviews, which could potentially provide further insight in the biases of paid review program.
 
